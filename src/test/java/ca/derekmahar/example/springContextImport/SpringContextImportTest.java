@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import ca.derekmahar.example.springContextImport.bean.A;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration("/spring-application-context.xml")
+@ContextConfiguration
 public class SpringContextImportTest {
 	
 	@Autowired
