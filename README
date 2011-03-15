@@ -1,0 +1,5 @@
+Project to confirm answer http://stackoverflow.com/questions/5302980/does-the-spring-bean-container-import-command-eliminate-duplicate-resources/5303575#5303575 to my question http://stackoverflow.com/questions/5302354/how-does-spring-create-an-application-context-or-container-hierarchy.
+
+Use Maven to build and run the tests:
+
+$ mvn test
