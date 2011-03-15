@@ -6,7 +6,7 @@
 
 	<import resource="spring-application-context-d.xml" />
 
-	<bean id="c" class="ca.derekmahar.example.springContainerImport.bean.C">
+	<bean id="c" class="ca.derekmahar.example.springContextImport.bean.C">
 		<constructor-arg ref="d" />
 	</bean>
 

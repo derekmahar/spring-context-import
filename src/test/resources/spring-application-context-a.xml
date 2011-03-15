@@ -7,7 +7,7 @@
 	<import resource="spring-application-context-b.xml" />
 	<import resource="spring-application-context-c.xml" />
 
-	<bean id="a" class="ca.derekmahar.example.springContainerImport.bean.A">
+	<bean id="a" class="ca.derekmahar.example.springContextImport.bean.A">
 		<constructor-arg ref="b" />
 		<constructor-arg ref="c" />
 	</bean>

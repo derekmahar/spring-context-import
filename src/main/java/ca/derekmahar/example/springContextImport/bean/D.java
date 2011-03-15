@@ -1,4 +1,4 @@
-package ca.derekmahar.example.springContainerImport.bean;
+package ca.derekmahar.example.springContextImport.bean;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
